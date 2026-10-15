@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BraniECD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+681bb8f4508f12ed4980fe6e7222df552b22c188")]
 [assembly: System.Reflection.AssemblyProductAttribute("BraniECD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BraniECD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
